@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: samples.springbootApp.service.TaskServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.892 sec - in samples.springbootApp.service.TaskServiceTest
